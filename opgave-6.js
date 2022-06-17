@@ -7,7 +7,7 @@ module.exports = {mooiRijtje}
    LET OP: het laatste teken van de uitkomst mag géén spatie zijn!
    De functie hoeft niet te werken met negatieve getallen of kommagetallen.
 */
-
+//test gaat nt werken er zit een fout in
 function mooiRijtje(eindgetal) {
   var uitkomst = ""
   

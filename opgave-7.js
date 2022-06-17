@@ -11,7 +11,7 @@ function gemiddelde(cijfers) {
   // cijfers is een array
   var uitkomst = undefined;
   
-  
+  //het goede antword is 8.75
   
   return uitkomst;
 }
